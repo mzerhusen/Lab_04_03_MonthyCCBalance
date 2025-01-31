@@ -1,4 +1,4 @@
-public class Main {
+public class CreditCardInterest {
     public static void main(String[] args)
     {
         double creditBalance = 5000.00;
